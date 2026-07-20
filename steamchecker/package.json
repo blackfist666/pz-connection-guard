@@ -1,0 +1,17 @@
+{
+  "name": "pz-steamchecker",
+  "version": "1.0.0",
+  "description": "Local API that vets a Steam profile + IP for a Project Zomboid server",
+  "main": "steamchecker.js",
+  "scripts": {
+    "start": "node steamchecker.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}

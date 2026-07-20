@@ -1,0 +1,5 @@
+# One SteamID64 per line. Blank lines and lines that aren't pure digits
+# (like this comment) are ignored, so you can keep notes next to entries.
+#
+# 76561198000000000
+# 76561198000000001
