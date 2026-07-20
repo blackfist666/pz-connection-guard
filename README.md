@@ -112,3 +112,7 @@ pz-connection-guard/
 ├── steamchecker/     Express API: Steam profile + IP lookups, whitelist
 └── steviewonder/     Log tailer + RCON enforcer
 ```
+
+## License
+
+GPLv3 — see [LICENSE](LICENSE).
